@@ -3,10 +3,15 @@ World Happiness Insights analyzes global happiness data (2015–2019) using mach
 # 🌍 World Happiness Insights: A Data-Driven Predictive Analysis
 
 ## 📖 Overview
-**World Happiness Insights** is a data-driven project that analyzes global happiness data (2015–2019) using machine learning and statistical modeling.  
-It identifies key factors like GDP, health, social support, freedom, generosity, and corruption influencing happiness across countries.  
-The project builds regression models, compares their performance, visualizes insights, and provides actionable policy recommendations to improve global well-being.
+*Project Description (200 words):*
 
+The *World Happiness Insights* project is a comprehensive data-driven analysis designed to explore and predict global happiness levels using the *World Happiness Report* datasets (2015–2019). It identifies the key socio-economic and governance factors influencing happiness—such as GDP per capita, social support, health, freedom, generosity, and corruption perception—through an automated machine learning pipeline.
+
+The project performs end-to-end data processing, including automatic dataset detection, cleaning, feature engineering, and scaling. It applies three regression models—*Ordinary Least Squares (OLS), **Generalized Linear Model (GLM), and **Robust Linear Model (RLM)*—to evaluate and compare predictive performance. Visual analyses such as correlation heatmaps, feature importance charts, residual plots, and model comparison graphs provide deep interpretive insights into global well-being trends.
+
+Additionally, the analysis includes *Variance Inflation Factor (VIF)* calculations to detect multicollinearity and uses permutation-based feature importance to rank influential predictors. The findings are summarized into clear, actionable *policy recommendations* aimed at improving happiness through better healthcare, social support, freedom, equality, and transparency.
+
+By merging statistical modeling with social insight, *World Happiness Insights* not only predicts happiness scores but also translates data into meaningful strategies for governments, researchers, and policymakers to enhance global quality of life.
 ---
 
 ## 🎯 Objectives
